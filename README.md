@@ -1,7 +1,7 @@
 # AuthBot
 
 
-*Feel free to report any issues [here](https://github.com/Lunch9992/AuthBot-/issues)*
+*Feel free to report any issues [here](https://github.com/Lunch9992/AuthBot-info/issues)*
 
 AuthBot is a multipurpose server moderation and utility bot that aims to provide a better experience for users through the use of automated systems, efficient logging and filtering, and much more.
 
