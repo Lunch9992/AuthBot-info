@@ -17,8 +17,8 @@ AuthBot is planning on having these features:
 - [x] A warn/kick/ban/mute system, additional to automatic punishment logging.
 - [x] Role Assignment via text
 - [x] Tick/Cross Channels
+- [x] `guildMemberAdd` Welcome Channel with customisable Welcome message
 
 - [ ] `guildMemberAdd` Welcome Message
-- [ ] `guildMemberAdd` Welcome Channel with customisable Welcome message
 - [ ] Avatar Command
 - [ ] Help Command
