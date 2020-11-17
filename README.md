@@ -18,7 +18,9 @@ AuthBot is planning on having these features:
 - [x] Role Assignment via text
 - [x] Tick/Cross Channels
 - [x] `guildMemberAdd` Welcome Channel with customisable Welcome message
+- [x] `guildMemberAdd` Welcome Message
 
-- [ ] `guildMemberAdd` Welcome Message
+- [ ] Timed Mutes
+- [ ] Unban Command
 - [ ] Avatar Command
 - [ ] Help Command
