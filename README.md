@@ -22,6 +22,8 @@ AuthBot currently has these features:
 - [x] Userinfo Command that displays a sufficient amount of information
 - [x] Warn/kick/ban/mute system, additional to automatic punishment logging.
 
+<br>
+
 - [ ] Timed Mutes
 - [ ] Unban Command
 - [ ] Help Command
