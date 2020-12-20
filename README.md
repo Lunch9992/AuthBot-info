@@ -21,10 +21,10 @@ AuthBot currently has these features:
 - [x] Tick/Cross Channels
 - [x] Userinfo Command that displays a sufficient amount of information
 - [x] Warn/kick/ban/mute system, additional to automatic punishment logging.
+- [x] Unban Command
 
 <br>
 
 - [ ] Timed Mutes
-- [ ] Unban Command
 - [ ] Help Command
 - [ ] Blacklist channels for Logging System
